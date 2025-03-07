@@ -1,8 +1,11 @@
-from sqlalchemy import Column, Integer, ForeignKey, Date, Numeric
+from sqlalchemy import Column, Integer, String, ForeignKey, Date, Numeric
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
-from .db_config import Base
+from sqlalchemy.ext.declarative import declarative_base
+from pl.marko.appendix.db_config import Base
+from pl.marko.appendix.tables import Building
 
+Base = declarative_base()
 class Work(Base):
     __tablename__ = 'works'
 

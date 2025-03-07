@@ -1,5 +1,8 @@
 from sqlalchemy import Column, Integer, String
-from .db_config import Base
+from pl.marko.appendix.db_config import Base
+from sqlalchemy.ext.declarative import declarative_base
+
+Base = declarative_base()
 
 class Building(Base):
     __tablename__ = 'buildings'

@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9db6c4-1a69-4bdb-a84a-d51454c5d832" name="Changes" comment="v.0.0.1" />
+    <list default="true" id="3f9db6c4-1a69-4bdb-a84a-d51454c5d832" name="Changes" comment="v.0.0.3">
+      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/create_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/db_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/Buildings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/buildings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/Materials.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/materials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/Works.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/works.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Serafin06/apendix.git",
-    "accountId": "8c1778b3-ddc2-4b50-b87f-aa1d335d0f3a"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Serafin06&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Serafin06/apendix.git&quot;,
+    &quot;accountId&quot;: &quot;8c1778b3-ddc2-4b50-b87f-aa1d335d0f3a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -35,13 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RafaL\PycharmProjects\PythonProject\pl\marko\appendix" />
+      <recent name="C:\Users\RafaL\PycharmProjects\PythonProject\pl\marko\appendix\tables" />
+      <recent name="C:\Users\RafaL\PycharmProjects\PythonProject\pl" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,11 +91,29 @@
       <option name="project" value="LOCAL" />
       <updated>1740336780322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v.0.0.2">
+      <option name="closed" value="true" />
+      <created>1740337444344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740337444344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v.0.0.3">
+      <option name="closed" value="true" />
+      <created>1740337490320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740337490320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.0.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.0.0.1" />
+    <MESSAGE value="v.0.0.2" />
+    <MESSAGE value="v.0.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.0.0.3" />
   </component>
 </project>

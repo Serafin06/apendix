@@ -1,6 +1,10 @@
 from sqlalchemy import Column, Integer, String, Numeric, ForeignKey
 from sqlalchemy.orm import relationship
-from .db_config import Base
+from pl.marko.appendix.db_config import Base
+from sqlalchemy.ext.declarative import declarative_base
+
+Base = declarative_base()
+
 
 class Material(Base):
     __tablename__ = 'materials'
