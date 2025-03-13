@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9db6c4-1a69-4bdb-a84a-d51454c5d832" name="Changes" comment="v.0.0.3">
-      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/create_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/db_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl/marko/appendix/main.py" afterDir="false" />
+    <list default="true" id="3f9db6c4-1a69-4bdb-a84a-d51454c5d832" name="Changes" comment="v.0.0.4">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/Buildings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/buildings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/Materials.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/materials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/Works.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/works.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/tables/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/tables/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pl/marko/appendix/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/pl/marko/appendix/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +51,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,13 +102,22 @@
       <option name="project" value="LOCAL" />
       <updated>1740337490320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v.0.0.4">
+      <option name="closed" value="true" />
+      <created>1741371929495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741371929495</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.0.0.1" />
     <MESSAGE value="v.0.0.2" />
     <MESSAGE value="v.0.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.0.0.3" />
+    <MESSAGE value="v.0.0.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.0.0.4" />
   </component>
 </project>
